@@ -2,7 +2,7 @@
 
 # Ada - Empresa Júnior de Ciência da Computação
 
-A **Ada** é uma empresa júnior de Ciência da Computação, formada por estudantes da UTFPR, com o objetivo de conectar pessoas através da tecnologia. Oferecemos serviços de qualidade a preços acessíveis, buscando estreitar os laços entre empresas e estudantes da área de tecnologia.
+A **Ada** é uma empresa júnior de Ciência da Computação, formada por estudantes da UTFPR campus medianiera, com o objetivo de conectar pessoas através da tecnologia. Oferecemos serviços de qualidade a preços acessíveis, buscando estreitar os laços entre empresas e estudantes da área de tecnologia.
 
 ## Serviços
 
