@@ -1,5 +1,3 @@
-Aqui está o README para a Ada com base nas informações que você forneceu:
-
 ---
 
 # Ada - Empresa Júnior de Ciência da Computação
