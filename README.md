@@ -2,47 +2,60 @@
 
 # Ada - Empresa Júnior de Ciência da Computação
 
-A **Ada** é uma empresa júnior de Ciência da Computação, formada por estudantes da UTFPR campus medianiera, com o objetivo de conectar pessoas através da tecnologia. Oferecemos serviços de qualidade a preços acessíveis, buscando estreitar os laços entre empresas e estudantes da área de tecnologia.
-
-## Serviços
-
-A Ada oferece os seguintes serviços:
-
-- **Desenvolvimento de Sites e Aplicativos**: Criação de sites e aplicativos sob medida para atender às necessidades de nossos clientes.
-- **Consultoria de TI**: Aconselhamento e suporte em soluções tecnológicas, ajudando empresas a otimizar seus processos e infraestrutura de TI.
-- **Cursos da Área de Tecnologia**: Oferecemos cursos na área de tecnologia, focando no desenvolvimento profissional e acadêmico dos nossos membros e clientes.
-
-## Equipe
-
-A Ada conta com uma equipe formada por 8 membros da diretoria:
-
-- **Presidente**
-- **Vice-presidente**
-- **Diretores**:
-  - Marketing
-  - Financeiro
-  - Recursos Humanos
-  - Administrativo
-  - Vendas
-  - Projetos
-
-Além dos membros da diretoria, a equipe é composta por membros de base e estagiários.
-
-## Estágio Atual
-
-A Ada é uma empresa em estágio inicial. Embora ainda não tenhamos clientes, estamos focados em oferecer serviços de alta qualidade para futuras parcerias. Estamos em processo de desenvolvimento de nosso portfólio e ampliando a rede de contatos com empresas e instituições de ensino.
-
-## Diferenciais
-
-- **Conexão entre pessoas e empresas**: Buscamos estabelecer uma relação colaborativa, conectando estudantes com o mercado de trabalho.
-- **Serviços de qualidade a preços acessíveis**: Oferecemos soluções tecnológicas de qualidade com o objetivo de tornar os serviços mais acessíveis, especialmente para pequenos negócios e startups.
-- **Foco na formação profissional**: Além dos serviços, oferecemos cursos na área de tecnologia, capacitando nossos membros e outros interessados no setor.
-
-## Contato
-
-Interessados em nossos serviços ou em parcerias podem entrar em contato por meio dos seguintes canais:
-
-- **E-mail**: [adaejutfprmd@gmail.com](mailto:adaejutfprmd@gmail.com)
-- **Telefone**: +55 45 99851-4280
+A **Ada** é a empresa júnior do curso de Ciência da Computação da UTFPR - Câmpus Medianeira. Formada por estudantes da universidade, nossa missão é promover a conexão entre pessoas por meio da tecnologia e inovação. Oferecemos serviços de qualidade a preços acessíveis, aproximando empresas e estudantes da área de tecnologia.
 
 ---
+
+## 🚀 Nossos Serviços
+
+A Ada disponibiliza uma variedade de serviços voltados ao desenvolvimento tecnológico e consultoria, incluindo:
+
+- **🖥️ Desenvolvimento de Sites e Aplicativos**: Criação de soluções digitais personalizadas para atender às necessidades específicas de nossos clientes.
+- **🔍 Consultoria em TI**: Auxílio na implementação e otimização de soluções tecnológicas, contribuindo para a eficiência dos processos empresariais.
+- **📚 Cursos e Capacitações**: Oferta de treinamentos na área de tecnologia, promovendo o desenvolvimento profissional e acadêmico de nossos membros e clientes.
+
+---
+
+## 👥 Nossa Equipe
+
+A Ada é composta por uma equipe dedicada e organizada em uma estrutura diretiva que inclui:
+
+### Diretoria
+- **Presidente**
+- **Vice-Presidente**
+- **Diretores de Áreas**:
+  - 📢 Marketing
+  - 💰 Financeiro
+  - 🏢 Recursos Humanos
+  - 🗂️ Administrativo
+  - 📈 Vendas
+  - 🏗️ Projetos
+
+### Membros
+Além da diretoria, contamos com membros de base e estagiários que contribuem ativamente para o crescimento e desenvolvimento da empresa.
+
+---
+
+## 📌 Estágio Atual
+
+Atualmente, a Ada encontra-se em fase inicial. Embora ainda não tenhamos clientes ativos, estamos empenhados na construção de um portfólio sólido e na ampliação de nossa rede de contatos com empresas e instituições de ensino. Nosso foco é garantir excelência na entrega de serviços para futuras parcerias.
+
+---
+
+## 🌟 Nossos Diferenciais
+
+- **🤝 Conexão entre empresas e estudantes**: Facilitamos a inserção de talentos no mercado de trabalho por meio de projetos e colaborações.
+- **💡 Soluções acessíveis e de qualidade**: Desenvolvemos produtos e serviços tecnológicos com alto padrão de qualidade e preços competitivos, especialmente voltados para startups e pequenos negócios.
+- **🎓 Compromisso com a formação profissional**: Além dos serviços prestados, promovemos capacitação e treinamentos, contribuindo para o aprimoramento técnico dos envolvidos.
+
+---
+
+## 📬 Contato
+
+Para mais informações sobre nossos serviços ou possíveis parcerias, entre em contato conosco através dos seguintes canais:
+
+- **📧 E-mail**: [adaejutfprmd@gmail.com](mailto:adaejutfprmd@gmail.com)
+- **📞 Telefone**: +55 45 99851-4280
+
+---
+
